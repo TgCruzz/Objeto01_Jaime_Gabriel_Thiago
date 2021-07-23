@@ -3,4 +3,8 @@ public class FileB{
 
 	public void methodX(){
 	}
+	public void methodY(){
+	}
+
+
 }
